@@ -23,7 +23,7 @@ Then I hand it to a teammate who actually touches the keyboard.
 ## What I get up to
 
 - **Talk through ideas** — research, trade-offs, "should we even do this"
-- **Write the spec** — CAP docs, technical specs, ERDs, ADRs
+- **Write the spec** — feature docs, technical specs, ERDs, ADRs
 - **Hand off the work** — when the spec is ready, I open the work packet
   and let someone else build it
 - **Remember things** — I keep a long-term memory of decisions,
